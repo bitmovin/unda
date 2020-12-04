@@ -10,7 +10,7 @@ Use;
 Create derivative works;
 Take it to the park and roll it and smoke it; and 
 Do whatever the [expletive deleted] else you want to with it. 
- 
+
 If you come up with something cool while modifying the uNDA or have any ideas for its improvement, you are not required to make a back contribution to the project.  However, you are strongly encouraged to share it back to the project in this repository. 
 The uNDA comes as is, without any warranty at all.
 
@@ -23,5 +23,6 @@ These Terms of Service govern your use of the uNDA. By using this uNDA, you agre
 You will not assert any clause in any claim, lawsuit, or action the clauses contained in your nondisclosure agreement in a manner which is materially different from those clauses contained in the uNDA as drafted on the day both your nondisclosure agreement takes effect. When using the uNDA, you agree to disclose all Included Clauses (as defined in the uNDA). If you made any changes to the uNDA, other than filling in blanks, you agree to disclose such changes using the permutation of Included Clauses. You are welcome to have clauses other than the Included Clauses, but you are required to disclose this fact by labeling your nondisclosure agreement with the Other Clauses (as defined in the uNDA).  You will not use any confusing terms or marking to falsely suggest that your nondisclosure agreement complies with the terms of the uNDA or these Terms of Service.
 
 Users of the uNDA expressly agree that they do not consider the uNDA legal advice in any way and are required to seek independent legal advice.
+
 If you choose to not agree with any of these terms or materially alter any of these terms, you may not use the text of the uNDA in a way which implies it is compliant with the uNDA.
 
