@@ -1,6 +1,6 @@
-# The Universal Commercial NDA
-
 ![Alt text](https://github.com/bitmovin/unda/blob/main/uNDA_Logo_Gradient_LightBG_SLG_Bitmovin_Small.png)
+
+# The Universal Commercial NDA
 
 The Universal NDA (“uNDA”) was developed by Bitmovin and the UC Hastings Startup Legal Garage in concert with the SFGCs in order to eliminate the time spent reading and negotiating NDA’s for routine commercial transactions, by standardizing the clauses of the NDA across companies. This creates a legal document which is read-once and negotiate-by-numbers approach. In order for this approach to work and any NDA to be compliant with the Universal NDA, it requires the drafter to abide by a simple rule. The signatories will not assert that text of the NDA, even if modified, in material different than a reasonable interpretation of the text as contained in this repo.
 
