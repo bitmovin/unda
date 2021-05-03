@@ -1,4 +1,4 @@
-![Alt text](https://github.com/bitmovin/unda/blob/main/uNDA_Logo_Gradient_LightBG_SLG_Bitmovin_Small.png)
+![uNDA Logo](https://raw.githubusercontent.com/bitmovin/unda/main/media/uNDA_Logo_Gradient_LightBG_SLG_Bitmovin_Small.png)
 
 # The Universal Commercial NDA
 
