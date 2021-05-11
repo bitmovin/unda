@@ -43,7 +43,7 @@ Warranty; Remedies; Choice of Law: [choiceOfLaw]; and Venue:[venue]
 in the Universal NDA.]
 
 
-*2. CONFIDENTIAL INFORMATION.*
+== 2. CONFIDENTIAL INFORMATION.
 
 Each party (in such capacity, a “*Disclosing Party*”) may disclose
 certain of its confidential and proprietary information to the other
@@ -59,7 +59,7 @@ to,[definitionOfConfidentialInformation].] Confidential Information may
 also include third party confidential or proprietary information
 disclosed to the Receiving Party.
 
-*3. EXCLUSIONS.*
+== 3. EXCLUSIONS.
 
 The obligations and restrictions of this agreement do not apply to that
 part of the Confidential Information that:
@@ -99,7 +99,7 @@ reasonable efforts to obtain reliable assurance that confidential
 treatment will be accorded any part of the Confidential Information so
 disclosed.
 
-*4. OBLIGATION TO MAINTAIN CONFIDENTIALITY.*
+== 4. OBLIGATION TO MAINTAIN CONFIDENTIALITY.
 
 [loweralpha]
 . *Confidentiality.* The Receiving Party shall keep the Confidential
@@ -129,7 +129,7 @@ disclosed.
   agreement.
 
 
-*5. TERM AND DURATION.*
+== 5. TERM AND DURATION.
 
 This Agreement will commence on the date first set forth above and will
 remain in effect for [term] years (“*Term*”). [The Receiving Party’s
@@ -139,7 +139,7 @@ Term becomes publicly known and made generally available through no
 action or inaction of the Receiving Party or Receiving Party’s
 Representatives.]
 
-*6. RETURN OF PROPERTY.*
+== 6. RETURN OF PROPERTY.
 
 All documents and other tangible objects containing or representing
 Confidential Information that have been disclosed by either party to the
@@ -148,7 +148,7 @@ and will remain the property of the Disclosing Party. At the Disclosing
 Party’s request, the Receiving Party shall promptly return or destroy
 all of those documents or objects.
 
-*7. NO OBLIGATION.*
+== 7. NO OBLIGATION.
 
 Nothing in this agreement obligates either party to proceed with any
 transaction between them, and each party reserves the right, in its sole
@@ -159,13 +159,13 @@ written notice to the other party. Any commitment to proceed with a
 transaction will be set forth in a separate agreement signed by the
 parties.
 
-*8. NO WARRANTY.*
+== 8. NO WARRANTY.
 
 ALL CONFIDENTIAL INFORMATION IS PROVIDED “AS IS.” NEITHER PARTY MAKES
 ANY WARRANTIES, EXPRESS, IMPLIED, OR OTHERWISE, REGARDING THE ACCURACY,
 COMPLETENESS, OR PERFORMANCE OF ANY SUCH INFORMATION.
 
-*9. REMEDIES.*
+== 9. REMEDIES.
 
 Each party agrees that its obligations hereunder are necessary and
 reasonable in order to protect the disclosing party and the disclosing
@@ -183,7 +183,7 @@ preliminary injunction. However, this shall not modify or abridge a
 moving party’s obligation to demonstrate harm in order to obtain a
 permanent injunction.
 
-*9. MISCELLANEOUS.*
+== 9. MISCELLANEOUS.
 
 [loweralpha]
 . *Choice of Law.* The laws of the state of [choiceOfLaw] govern this
