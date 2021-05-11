@@ -1,7 +1,7 @@
 = image:media/uNDA_Logo_Black_LightBG_Flat_SLG_Bitmovin.png[image,width=98,height=42] UNIVERSAL MUTUAL NON-DISCLOSURE AGREEMENT
 
 This mutual nondisclosure agreement is entered into on [agreementDate]
-:[<u>(the "*Effective Date*")</u>], between [firstcompany], a Delaware
++++(the "*Effective Date*")+++, between [firstcompany], a Delaware
 Corporation whose principal address is [address] and [counterpartyName],
 an [entity organized on under the laws of
 [counterpartyIncorporationState] [whose principal address is
